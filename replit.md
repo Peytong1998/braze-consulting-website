@@ -4,7 +4,7 @@
 A Next.js website for Venture X, an independent Braze consulting service. The site showcases services, pricing, blog posts, and contact information for enterprise and high-growth brands.
 
 ## Tech Stack
-- **Framework**: Next.js 15.1.0 (App Router)
+- **Framework**: Next.js 15.5.12 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS with PostCSS
 - **Font**: Inter (Google Fonts)
