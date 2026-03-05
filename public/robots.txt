@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://venturex-consulting.com/sitemap.xml
+
+# Important pages for crawlers
+Allow: /case-studies
+
+# Block any sensitive areas (none currently, but good practice)
+# Disallow: /admin
+
+# Crawl-delay (optional, removes aggressive crawling)
+Crawl-delay: 1
